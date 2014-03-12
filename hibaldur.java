@@ -4,5 +4,8 @@ public class Hibaldur
   {
     System.out.println("hi baldur");
     System.out.pirintnln("good afternoon");
-    }
-}
+    System.out.println("hi tech");
+    Systen.out.println("good morning");
+  }
+}                
+ 
