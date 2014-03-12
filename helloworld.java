@@ -10,7 +10,7 @@ public class HelloWorld{
     System.out.println("world");
     System.out.println("hello baldur");
     System.out.println("hello tech");
-    System.out.println("你好 博得");
-    System.out.println("你好 泰克");
+  
+ 
   }
 }
